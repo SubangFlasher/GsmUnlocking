@@ -1,0 +1,6 @@
+{
+  "name": "GSM UNLOCKING INDONESIA",
+  "description": "Aplikasi penjualan produk digital dan layanan servis teknisi GSM terlengkap di Indonesia: Aktivasi Tool, Sewa Akun & Dongle, serta Jasa Remote Service.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
